@@ -525,20 +525,19 @@ If you use or adapt this framework in your research, please cite our paper:
 
 **Formatted citation:**
 ```
-Andrea Lia, Daniele Di Bella and Pietro Roversi (2025). Mathematical modelling of glycoprotein fate in the ER. [Journal Name], [Volume(Issue)], [pages]. DOI: [insert DOI]
+Daniele Di Bella, Andrea Lia and Pietro Roversi (2026). Mathematical modelling of glycoprotein fate in the ER [version 1; peer review: 1 approved with reservations]. Wellcome Open Res, 11:185. https://doi.org/10.12688/wellcomeopenres.25558.1
 ```
 
 **BibTeX:**
 ```bibtex
-@article{Lia2024glycoprotein,
+@article{DiBella2026glycoprotein,
   title={Mathematical modelling of glycoprotein fate in the ER},
-  author={Lia, Andrea and Di Bella, Daniele and Roversi, Pietro},
-  journal={[Journal Name]},
-  volume={[Volume]},
-  number={[Issue]},
-  pages={[pages]},
-  year={[Year]},
-  doi={[DOI]}
+  author={Di Bella, Daniele, Lia, Andrea and Roversi, Pietro},
+  journal={Wellcome Open Res},
+  volume={11},
+  number={185},
+  year={2026},
+  link={https://doi.org/10.12688/wellcomeopenres.25558.1}
 }
 ```
 
