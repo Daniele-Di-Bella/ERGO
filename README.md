@@ -515,9 +515,9 @@ Generate multiple scenarios, and see which scenario fits better your own measure
 
 If you're interested in reproducing the specific results presented in our publication:
 
-> Andrea Lia, Daniele Di Bella and Pietro Roversi (2025) *A Conceptual Framework to Model the Fate of Glycoproteins in the Endoplasmic Reticulum* [DOI or Preprint link]
+> Daniele Di Bella, Andrea Lia and Pietro Roversi (2026). Mathematical modelling of glycoprotein fate in the ER [version 1; peer review: 1 approved with reservations]. Wellcome Open Res, 11:185. https://doi.org/10.12688/wellcomeopenres.25558.1
 
-The code as provided generates the Figure [X] in the paper. To reproduce run the script with default parameters. 
+The code as provided generates the Figures 4, 5 and 6 in the paper. To reproduce them run the script with default parameters. 
 
 ## Citation
 
